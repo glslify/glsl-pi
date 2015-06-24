@@ -1,0 +1,29 @@
+{
+  "name": "glsl-pi",
+  "version": "1.0.0",
+  "description": "π available at your convenience for use within glslify",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackgl/glsl-pi.git"
+  },
+  "keywords": [
+    "ecosystem:stackgl",
+    "pi",
+    "tau",
+    "π"
+  ],
+  "homepage": "https://github.com/stackgl/glsl-pi",
+  "bugs": {
+    "url": "https://github.com/stackgl/glsl-pi/issues"
+  }
+}
